@@ -1,6 +1,6 @@
-My Chat App
+HeyChat - VNChat
 📝 Giới thiệu
-HeyChat là một ứng dụng trò chuyện dành cho nền tảng Android, được phát triển với mục tiêu mang lại trải nghiệm nhắn tin nhanh chóng, an toàn và tiện lợi. Ứng dụng hỗ trợ nhắn tin thời gian thực, lưu trữ tin nhắn trên Firebase, và tích hợp nhiều tính năng hiện đại.
+HeyChat - VNChat là các ứng dụng trò chuyện dành cho nền tảng Android, được phát triển với mục tiêu mang lại trải nghiệm nhắn tin nhanh chóng, an toàn và tiện lợi. Ứng dụng hỗ trợ nhắn tin thời gian thực, lưu trữ tin nhắn trên Firebase, và tích hợp nhiều tính năng hiện đại.
 
 🚀 Công nghệ sử dụng
 Android Studio – Môi trường phát triển chính
